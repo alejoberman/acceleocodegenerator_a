@@ -1,4 +1,4 @@
-acceleocodegenerator_a
+acceleocodegenerator_and
 ======================
 
 Code generator Android
